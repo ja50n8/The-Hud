@@ -1,0 +1,33 @@
+.jumbotron {
+    text-align: center;
+}
+
+.display-2 {
+    padding-bottom: 60px;
+}
+
+.lead {
+    font-size: 1.5rem;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 30vw;
+    object-fit: cover;
+}
+
+.card-group {
+    padding: 20px 0;
+    text-align: center;
+}
+
+.coming-soon-title {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.coming-soon-8-bit-img {
+    height: 100%;
+    width: 100%;
+    padding-bottom: 20px;
+}
